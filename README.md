@@ -1,2 +1,2 @@
 # colab
-Public colab or jupyter notebooks for various things.
+Public colab of jupyter notebooks for various things.
